@@ -50,6 +50,6 @@ Xem thêm tại:
 - [Trello](https://trello.com/invite/b/9dDS3Fpv/ATTI4976161f5197924aac9a2765e318bcbb28519604/p4ds-it-salary-2123) 
 
 # **4. Tổ chức mã nguồn**
-Dữ liệu xem thêm tại: [Google Drive] (https://drive.google.com/drive/u/2/folders/1JV3_C5zEI11DW2Wts4rPlClB2cAJIMHO)
+Dữ liệu xem thêm tại: [Google Drive](https://drive.google.com/drive/u/2/folders/1JV3_C5zEI11DW2Wts4rPlClB2cAJIMHO)
 
 Xem thêm tại: [GitHub](https://github.com/BoonRealCuaaaaa/P4DS-final)
