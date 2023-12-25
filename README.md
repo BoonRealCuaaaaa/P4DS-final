@@ -20,7 +20,7 @@
 |1|Nguyễn Khánh Hoàng|21127612|nkhoang21@clc.fitus.edu.vn|
 |2|Trần Hiếu Tâm |21127423|thtam21@clc.fitus.edu.vn|
 
-**Tên đề tài:** Phân tích mức lương của Lập trình viên trên toàn cầu, giai đoạn 2021-2023 
+**Tên đề tài:** Phân tích tổng quan thị trường lao động ngành CNTT trên toàn cầu, giai đoạn 2021-2023 
 
 **Tên học phần**: CSC17104 - Lập trình cho Khoa học Dữ liệu, 21KHDL1
 
